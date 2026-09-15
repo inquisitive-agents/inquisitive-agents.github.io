@@ -1,5 +1,5 @@
 ---
-title: "Inquisitive Conversational Agents: Agentic Systems for Domain-Specific Information Seeking"
+title: "Inquisitive Conversational Agents: Foundations and Methods for Agent-Driven Strategic Questioning"
 subtitle: "Half-Day Tutorial"
 toc: false
 ---
@@ -19,10 +19,6 @@ Coming soon.
 
 <!--################################### -->
 # Schedule   {#Schedule}
-
-## 9. Schedule
-
-Detailed in the table below.
 
 | # | Section | Speaker | Min |
 |---|---|---|---:|
