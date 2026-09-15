@@ -1,0 +1,77 @@
+---
+title: "Inquisitive Conversational Agents: Agentic Systems for Domain-Specific Information Seeking"
+subtitle: "Half-Day Tutorial"
+toc: false
+---
+
+
+<!--################################### -->
+# Tutorial Outline   {#tutorial-outline}
+
+Conversational AI has traditionally focused on user-driven dialogue systems designed to respond to requests or answer questions. Even recent proactive conversational agents, which can initiate or guide interactions, remain fundamentally user-serving. However, many high-stakes, domain-specific interactions such as legal questioning, medical diagnosis, and professional troubleshooting, demand a fundamentally different kind of agent: one that pursues its own information-seeking objectives, exercises autonomy, and engages in extended conversations to acquire evidence, distinguish among competing hypotheses, and reduce uncertainty. These domains are unforgiving; shallow or reactive dialogue is insufficient when the cost of missing critical information is high. Inquisitive Conversational Agents (ICAs) provide a principled framework for this class of agentic behavior. This tutorial unifies mature but disconnected research threads around the ICA problem, including agentic LLMs, dialogue planning, question generation, argumentation, retrieval-augmented generation, attribution, and evaluation. It also covers key components, open research challenges, and future directions for high-stakes domain-specific information seeking.
+
+
+<!--################################### -->
+# Materials  {#materials}
+
+
+<!--################################### -->
+# Schedule   {#Schedule}
+
+
+<!--################################### -->
+# Presenter Bios   {#presenter-bios}
+
+:::: {.presenter}
+
+::: {.presenter-image}
+![](images/victor-de-lima.jpg){.presenter-photo}
+:::
+
+::: {.presenter-bio}
+
+
+**Victor De Lima** is a Ph.D. student in Computer Science at Georgetown University. His work focuses on applied large language model systems, including reinforcement learning-based optimization and agentic conversational architectures. He has published work on recommendation systems, neural re-ranking, and retrieval methods for conversational agents. Victor has substantial experience as a graduate research assistant and instructor, having taught and supported courses in deep reinforcement learning, large language models, and core computer science. His current doctoral research focuses on inquisitive conversational agents, studying how conversational systems can actively ask questions, identify missing information, and steer dialogue to support reasoning and decision-making. Victor has extensive hands-on experience fine-tuning and adapting large language models for downstream tasks, mainly for agent-based conversational systems. Through teaching computer science courses and presenting research in talks and poster sessions, he has broad experience explaining technical material to audiences with varying levels of technical background.
+
+Website: [https://www.victordelima.com/](https://www.victordelima.com/)
+
+:::
+::::
+
+
+:::: {.presenter}
+
+::: {.presenter-image}
+![](images/grace-hui-yang.png){.presenter-photo}
+:::
+
+::: {.presenter-bio}
+
+**Dr. Grace Hui Yang** is Professor of Computer Science at Georgetown University, Washington D.C., U.S., leading the InfoSense (Information Retrieval and Sense-Making) group. Dr. Yang obtained her Ph.D. from Carnegie Mellon University in 2011. Her current research interests include conversational agents, deep reinforcement learning, and information retrieval. Dr. Yang is a recipient of the U.S. National Science Foundation Faculty Early Career Development Program (CAREER) Award. She has served on the organizing or program committees in recent conferences, such as SIGIR, ECIR, ACL, AAAI, ICTIR, CIKM, WSDM, and WWW, and on the editorial boards of ACM TOIS (2022-) and Information Retrieval Journal (2014-2017). She is general co-chair of SIGIR 2024. Dr. Yang has experience giving tutorials in the IR conferences -- she delivered tutorials on *Dynamic Information Retrieval* at SIGIR'14 and WSDM'15, on *Privacy-Preserving IR* at ICTIR'17 and WSDM'18, and on *Proactive Conversational Agents* at WSDM'23 and SIGIR'23. Dr. Yang also taught in the first ACM SIGIR AFIRM Summer School in 2019.
+
+
+Website: [https://infosense.cs.georgetown.edu/grace](https://infosense.cs.georgetown.edu/grace)
+
+:::
+::::
+
+
+:::: {.presenter}
+
+::: {.presenter-image}
+![](images/lynda-tamine-lechani.jpeg){.presenter-photo}
+:::
+
+::: {.presenter-bio}
+
+**Dr. Lynda Tamine** is Professor of Computer Science at Toulouse University in France. Dr. Tamine obtained her Ph.D. from Toulouse University in 2000. She was an early member of the steering committee of the French IR association ARIA (2008-2016),  and she co-founded in 2016 the IAFA (Artificial Intelligence: Foundations and Applications) training program. She mainly works on neural approaches for interactive IR and knowledge-graph enhanced representation learning. She has published extensively in leading IR journals and conferences, including ACM Computing Surveys, ACM TOIS, IP\&M, SIGIR, ECIR, WSDM, and CIKM, and she is currently on the editorial board of FouNdations and Trends in Information Retrieval (FNTIR). Dr Tamine has delivered tutorials on collaborative IR (ICTIR'16, ECIR'18) and semantic search for health (ECIR'18, AIME'19).
+
+Website: [https://www.irit.fr/~Lynda.Tamine-Lechani/](https://www.irit.fr/~Lynda.Tamine-Lechani/)
+
+:::
+::::
+
+<!--################################### -->
+# Slides   {#Slides}
+
+Coming soon.

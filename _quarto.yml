@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!README.md"
+
+website:
+  title: "Inquisitive Conversational Agents"
+  sidebar:
+    search: false
+    contents:
+      - text: Tutorial Outline  
+        href: index.qmd#tutorial-outline
+      - text: Materials  
+        href: index.qmd#materials
+      - text: Schedule   
+        href: index.qmd#schedule
+      - text: Presenter Bios   
+        href: index.qmd#presenter-bios
+      - text: Slides   
+        href: index.qmd#slides
+
+
+format:
+  html:
+    theme:
+      - zephyr
+      - custom.scss
+    toc: true
+
+
+

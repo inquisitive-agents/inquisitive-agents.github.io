@@ -1,0 +1,62 @@
+/*-- scss:defaults --*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+$font-family-sans-serif: "Inter", sans-serif;
+$font-size-base: 0.98rem;
+
+/*-- scss:rules --*/
+
+
+
+.presenter {
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  margin-bottom: 3rem;
+}
+
+.presenter-image {
+  flex: 0 0 13rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.presenter-bio {
+  flex: 1;
+  min-width: 0;
+}
+
+.presenter-photo {
+  display: block;
+  width: 13rem;
+  height: 13rem;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.presenter-bio h3 {
+  margin-top: 0;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .presenter {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1.25rem;
+  }
+
+  .presenter-image {
+    flex-basis: auto;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .presenter-photo {
+    width: 10rem;
+    height: 10rem;
+  }
+}
