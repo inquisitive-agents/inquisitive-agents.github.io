@@ -8,15 +8,33 @@ toc: false
 <!--################################### -->
 # Tutorial Outline   {#tutorial-outline}
 
-Conversational AI has traditionally focused on user-driven dialogue systems designed to respond to requests or answer questions. Even recent proactive conversational agents, which can initiate or guide interactions, remain fundamentally user-serving. However, many high-stakes, domain-specific interactions such as legal questioning, medical diagnosis, and professional troubleshooting, demand a fundamentally different kind of agent: one that pursues its own information-seeking objectives, exercises autonomy, and engages in extended conversations to acquire evidence, distinguish among competing hypotheses, and reduce uncertainty. These domains are unforgiving; shallow or reactive dialogue is insufficient when the cost of missing critical information is high. Inquisitive Conversational Agents (ICAs) provide a principled framework for this class of agentic behavior. This tutorial unifies mature but disconnected research threads around the ICA problem, including agentic LLMs, dialogue planning, question generation, argumentation, retrieval-augmented generation, attribution, and evaluation. It also covers key components, open research challenges, and future directions for high-stakes domain-specific information seeking.
+While many conversational systems are designed to respond to the user, some settings require the agent to take control of the conversation and ask the questions. This interaction arises across domains: in medical diagnosis, questions distinguish among possible conditions; in troubleshooting, they isolate the source of a failure; and in legal settings, they examine competing interpretations or establish relevant facts. In each case, the agent has an objective to resolve, but the information needed to reach an answer is distributed across the conversation. This tutorial covers the foundations and recent advances in Inquisitive Conversational Agents (ICAs), bringing together research on agents that strategically control a dialogue through questioning to resolve an underlying state or answer. Unlike information-seeking systems centered on retrieving and ranking external information, ICAs acquire information through successive exchanges with a conversational counterpart. Drawing on information seeking, dialogue systems, sequential decision-making, and agentic AI, we cover methods for selecting and sequencing questions, planning over future interactions, and adapting inquiry strategies based on responses and prior interactions. We also draw on Conversational Control and Planning, Argumentation, and Evidence Attribution to examine how agents direct multi-turn interactions, reason over competing claims, and ground acquired information. Designed for researchers, students, and practitioners, the tutorial provides a unified view of this emerging area and methods for designing agents capable of sustained, goal-directed inquiry.
 
 
 <!--################################### -->
 # Materials  {#materials}
 
+Coming soon.
+
 
 <!--################################### -->
 # Schedule   {#Schedule}
+
+## 9. Schedule
+
+Detailed in the table below.
+
+| # | Section | Speaker | Min |
+|---|---|---|---:|
+| 1 | Foundations of ICAs | Grace | 25 |
+| 2 | Conversational Control and Planning | Grace | 30 |
+| 3 | Hands-on Exercise I: Planning | Victor | 20 |
+| | **_Coffee break_** | | 30 |
+| 4 | Argumentation/Evidence Attribution | Lynda | 55 |
+| 5 | Evaluating ICAs | Victor | 25 |
+| 6 | Hands-on Exercise II: Full Pipeline | Victor | 20 |
+| | **_Q&A and Closing_** | | 10 |
+| | **Total** | | **210** |
 
 
 <!--################################### -->
