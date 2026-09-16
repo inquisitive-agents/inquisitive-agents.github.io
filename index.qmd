@@ -30,7 +30,8 @@ Coming soon.
 | 5 | Evaluating ICAs | Victor | 20 |
 | 6 | Hands-on Exercise II: Full Pipeline | Victor | 30 |
 | | **_Q&A and Closing_** | | 15 |
-| | **Total** | | **240** |
+| | **Instructional time** | | **210** |
+| | **Total incl. break** | | **240** |
 
 
 <!--################################### -->
