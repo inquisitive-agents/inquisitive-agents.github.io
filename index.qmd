@@ -22,15 +22,15 @@ Coming soon.
 
 | # | Section | Speaker | Min |
 |---|---|---|---:|
-| 1 | Foundations of ICAs | Grace | 25 |
+| 1 | Foundations of ICAs | Grace | 30 |
 | 2 | Conversational Control and Planning | Grace | 30 |
-| 3 | Hands-on Exercise I: Planning | Victor | 20 |
+| 3 | Hands-on Exercise I: Planning | Victor | 30 |
 | | **_Coffee break_** | | 30 |
 | 4 | Argumentation/Evidence Attribution | Lynda | 55 |
-| 5 | Evaluating ICAs | Victor | 25 |
-| 6 | Hands-on Exercise II: Full Pipeline | Victor | 20 |
-| | **_Q&A and Closing_** | | 10 |
-| | **Total** | | **210** |
+| 5 | Evaluating ICAs | Victor | 20 |
+| 6 | Hands-on Exercise II: Full Pipeline | Victor | 30 |
+| | **_Q&A and Closing_** | | 15 |
+| | **Total** | | **240** |
 
 
 <!--################################### -->
